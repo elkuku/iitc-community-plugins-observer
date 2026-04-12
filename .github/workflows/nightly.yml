@@ -32,11 +32,10 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: scripts/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Install script dependencies
-        run: npm ci
-        working-directory: scripts
+        run: npm ci --workspace=scripts
 
       - name: Fetch plugins and record snapshots
         run: node fetch.js
@@ -84,11 +83,10 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: site/package-lock.json
+          cache-dependency-path: package-lock.json
 
       - name: Install site dependencies
-        run: npm ci
-        working-directory: site
+        run: npm ci --workspace=site
 
       - name: Copy data into site public/ and build
         run: node scripts/build-site.js
