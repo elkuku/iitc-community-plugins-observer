@@ -18,12 +18,12 @@ async function init() {
     return;
   }
 
-  document.getElementById('back-link').href = `/plugin.html?id=${idHash}`;
+  document.getElementById('back-link').href = `${import.meta.env.BASE_URL}plugin.html?id=${idHash}`;
 
   // Load plugin name from versions.json for display
   let pluginName = idHash;
   try {
-    const res = await fetch(`/data/plugins/${idHash}/versions.json`);
+    const res = await fetch(`${import.meta.env.BASE_URL}data/plugins/${idHash}/versions.json`);
     if (res.ok) {
       const data = await res.json();
       pluginName = data.name ?? idHash;
@@ -42,8 +42,8 @@ async function init() {
   const outputEl = document.getElementById('diff-output');
   try {
     [srcA, srcB] = await Promise.all([
-      fetchText(`/data/plugins/${idHash}/${dateA}.user.js`),
-      fetchText(`/data/plugins/${idHash}/${dateB}.user.js`),
+      fetchText(`${import.meta.env.BASE_URL}data/plugins/${idHash}/${dateA}.user.js`),
+      fetchText(`${import.meta.env.BASE_URL}data/plugins/${idHash}/${dateB}.user.js`),
     ]);
   } catch (err) {
     outputEl.innerHTML = `<p class="loading">Failed to load snapshot: ${escHtml(err.message)}</p>`;

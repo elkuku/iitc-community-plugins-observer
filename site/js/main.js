@@ -2,7 +2,7 @@
  * Plugin list page logic.
  */
 
-const MANIFEST_URL = '/data/manifest.json';
+const MANIFEST_URL = import.meta.env.BASE_URL + 'data/manifest.json';
 const RECENT_DAYS = 14;
 
 let allPlugins = [];
@@ -47,7 +47,7 @@ async function init() {
       .map(
         (p) =>
           `<li>
-            <a class="plugin-link" href="/plugin.html?id=${p.id_hash}">${escHtml(p.name)}</a>
+            <a class="plugin-link" href="${import.meta.env.BASE_URL}plugin.html?id=${p.id_hash}">${escHtml(p.name)}</a>
             <span class="change-meta"> · v${escHtml(p.latestVersion)} · ${p.latestDate} · by ${escHtml(p.author)}</span>
           </li>`
       )
@@ -108,7 +108,7 @@ function rowHtml(p) {
     ? '<span class="badge badge-removed">removed</span>'
     : '<span class="badge badge-active">active</span>';
   return `<tr>
-    <td><a href="/plugin.html?id=${p.id_hash}">${escHtml(p.name)}</a></td>
+    <td><a href="${import.meta.env.BASE_URL}plugin.html?id=${p.id_hash}">${escHtml(p.name)}</a></td>
     <td>${escHtml(p.author ?? '')}</td>
     <td>${escHtml(p.category ?? '')}</td>
     <td class="mono">${escHtml(p.latestVersion ?? '')}</td>

@@ -15,7 +15,7 @@ async function init() {
 
   let data;
   try {
-    const res = await fetch(`/data/plugins/${idHash}/versions.json`);
+    const res = await fetch(`${import.meta.env.BASE_URL}data/plugins/${idHash}/versions.json`);
     if (!res.ok) throw new Error(res.statusText);
     data = await res.json();
   } catch {
@@ -25,7 +25,7 @@ async function init() {
 
   document.title = `${data.name} — IITC Community Plugins Observer`;
   document.getElementById('plugin-name').textContent = data.name;
-  document.getElementById('back-link').href = '/';
+  document.getElementById('back-link').href = import.meta.env.BASE_URL;
 
   const meta = document.getElementById('plugin-meta');
   meta.innerHTML = `by <strong>${escHtml(data.author ?? '')}</strong> · ${escHtml(data.category ?? '')}`;
@@ -51,7 +51,7 @@ async function init() {
       <td>${escHtml(v.date)}</td>
       <td class="mono" style="font-size:0.78em;color:var(--text-muted)">${v.sha256?.slice(0, 12)}…</td>
       <td>
-        <a href="/data/plugins/${idHash}/${v.date}.user.js" target="_blank" class="btn-view">View source</a>
+        <a href="${import.meta.env.BASE_URL}data/plugins/${idHash}/${v.date}.user.js" target="_blank" class="btn-view">View source</a>
       </td>
     </tr>`
     )
@@ -80,7 +80,7 @@ async function init() {
   document.getElementById('compare-btn').addEventListener('click', () => {
     if (selectedVersions.size !== 2) return;
     const [a, b] = [...selectedVersions].sort();
-    location.href = `/diff.html?id=${idHash}&a=${a}&b=${b}`;
+    location.href = `${import.meta.env.BASE_URL}diff.html?id=${idHash}&a=${a}&b=${b}`;
   });
 }
 
