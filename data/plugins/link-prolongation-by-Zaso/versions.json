@@ -1,0 +1,18 @@
+{
+  "id": "link-prolongation@Zaso",
+  "id_hash": "link-prolongation-by-Zaso",
+  "author": "Zaso",
+  "name": "Link Prolongation",
+  "category": "Layers",
+  "description": "Create link prolongations.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/link-prolongation.user.js",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "65c34926908d3331a89c9200ce95a8d066c46f4a1cd1b62d808b7f42ce152379",
+      "fetchedAt": "2026-04-12T16:14:47.778Z"
+    }
+  ]
+}

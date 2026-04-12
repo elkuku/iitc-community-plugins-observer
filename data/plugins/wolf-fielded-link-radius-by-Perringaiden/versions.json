@@ -1,0 +1,18 @@
+{
+  "id": "wolf-fielded-link-radius@Perringaiden",
+  "id_hash": "wolf-fielded-link-radius-by-Perringaiden",
+  "author": "Perringaiden",
+  "name": "Fielded Link Radius",
+  "category": "Misc",
+  "description": "Defines the area inside which a portal can link under a field.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Perringaiden/wolf-fielded-link-radius.user.js",
+  "versions": [
+    {
+      "version": "0.3",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "fc4e3bd39c7d62f979e3561552b0b3d0f1407262df0d281a2fc3e9a7834b43e5",
+      "fetchedAt": "2026-04-12T16:14:47.399Z"
+    }
+  ]
+}

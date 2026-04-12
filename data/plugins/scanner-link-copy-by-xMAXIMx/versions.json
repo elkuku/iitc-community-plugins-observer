@@ -1,0 +1,18 @@
+{
+  "id": "scanner-link-copy@xMAXIMx",
+  "id_hash": "scanner-link-copy-by-xMAXIMx",
+  "author": "xMAXIMx",
+  "name": "Scanner link-copy",
+  "category": "Info",
+  "description": "Adds scanner link (copy mode) to IITC",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xMAXIMx/scanner-link-copy.user.js",
+  "versions": [
+    {
+      "version": "0.2.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c4673c6937c5710c2c0526b57c03815b38101e7f18789067acb2cc0326f66baf",
+      "fetchedAt": "2026-04-12T16:14:48.374Z"
+    }
+  ]
+}

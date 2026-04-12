@@ -1,0 +1,18 @@
+{
+  "id": "portals-pictures@jaiperdu",
+  "id_hash": "portals-pictures-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "Portals pictures",
+  "category": "Info",
+  "description": "Show portal pictures in a dialog",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/portals-pictures.user.js",
+  "versions": [
+    {
+      "version": "0.1.4",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0c2b16c3f2aa06dacfea282fe12934ba43d479185738e7c88e9597ee14c44f01",
+      "fetchedAt": "2026-04-12T16:14:48.231Z"
+    }
+  ]
+}

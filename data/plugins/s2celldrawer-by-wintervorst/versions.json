@@ -1,0 +1,18 @@
+{
+  "id": "s2celldrawer@wintervorst",
+  "id_hash": "s2celldrawer-by-wintervorst",
+  "author": "Wintervorst",
+  "name": "S2 Cell Drawer",
+  "category": "Layer",
+  "description": "Allows drawing of s2cells and creates a layerselected hook",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/wintervorst/s2celldrawer.user.js",
+  "versions": [
+    {
+      "version": "0.0.5.20241120.010307",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "bf85713bf8c3f68191e19ed8d90feaa94d9ecd20f907c60e7f71bf505bd08076",
+      "fetchedAt": "2026-04-12T16:14:48.336Z"
+    }
+  ]
+}

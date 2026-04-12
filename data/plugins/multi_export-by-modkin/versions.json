@@ -1,0 +1,18 @@
+{
+  "id": "multi_export@modkin",
+  "id_hash": "multi_export-by-modkin",
+  "author": "modkin",
+  "name": "Portal Multi Export",
+  "category": "Misc",
+  "description": "Export portals from bookmarks, current view or polygon",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/modkin/multi_export.user.js",
+  "versions": [
+    {
+      "version": "0.11",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "24ebc196f37903bf903538caa8fda056e09e5751bf6031989f9315fdd2dfb8ff",
+      "fetchedAt": "2026-04-12T16:14:48.225Z"
+    }
+  ]
+}

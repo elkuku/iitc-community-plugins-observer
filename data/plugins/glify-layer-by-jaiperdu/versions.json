@@ -1,0 +1,18 @@
+{
+  "id": "glify-layer@jaiperdu",
+  "id_hash": "glify-layer-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "Glify layer",
+  "category": "Map Tiles",
+  "description": "GL layer",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/glify-layer.user.js",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "186d79e9ad69a594c7d0e32648a2a42cf64b90e031a1ba2032c43a9c86772caa",
+      "fetchedAt": "2026-04-12T16:14:48.142Z"
+    }
+  ]
+}

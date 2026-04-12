@@ -1,0 +1,18 @@
+{
+  "id": "wolf-deployed-highlighter@Perringaiden",
+  "id_hash": "wolf-deployed-highlighter-by-Perringaiden",
+  "author": "Perringaiden",
+  "name": "Hide portals that aren't fully deployed.",
+  "category": "Highlighter",
+  "description": "Hides any portal that doesn't have 8 resonators.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Perringaiden/wolf-deployed-highlighter.user.js",
+  "versions": [
+    {
+      "version": "0.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "187de9acde52e6bb2da31e4c645d3b785bfc07a2daf1278141a76c9e47d0f8cb",
+      "fetchedAt": "2026-04-12T16:14:47.399Z"
+    }
+  ]
+}

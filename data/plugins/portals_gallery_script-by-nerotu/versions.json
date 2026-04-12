@@ -1,0 +1,18 @@
+{
+  "id": "portals_gallery_script@nerotu",
+  "id_hash": "portals_gallery_script-by-nerotu",
+  "author": "Kofirs2634 aka Nerotu",
+  "name": "Portals Gallery",
+  "category": "Info",
+  "description": "Creates the gallery of portals that can be used to solve the First Saturday passcode.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/nerotu/portals_gallery_script.user.js",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "298c9ea26a49dae8b78b05d1544429aca3fa18127e37e7ec53edc7023503a6b8",
+      "fetchedAt": "2026-04-12T16:14:48.321Z"
+    }
+  ]
+}

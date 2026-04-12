@@ -1,0 +1,18 @@
+{
+  "id": "check-point-timer@Zaso",
+  "id_hash": "check-point-timer-by-Zaso",
+  "author": "Zaso",
+  "name": "Check Point Timer",
+  "category": "Info",
+  "description": "Add to the sidebar a countdown timer to next checkpoint.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/check-point-timer.user.js",
+  "versions": [
+    {
+      "version": "0.1.2.20200216.174028",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "93bdf415f7802ef868a13affdb4f27d1ed6db3ecd6991605e438e990c21a3202",
+      "fetchedAt": "2026-04-12T16:14:47.535Z"
+    }
+  ]
+}

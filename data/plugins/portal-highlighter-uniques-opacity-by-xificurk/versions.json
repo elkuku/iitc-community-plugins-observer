@@ -1,0 +1,18 @@
+{
+  "id": "portal-highlighter-uniques-opacity@xificurk",
+  "id_hash": "portal-highlighter-uniques-opacity-by-xificurk",
+  "author": "xificurk",
+  "name": "Highlight unique visits/captures using opacity",
+  "category": "Highlighter",
+  "description": "Use stroke and fill opacity to denote player's unique visits and captures. Requires uniques plugin.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xificurk/portal-highlighter-uniques-opacity.user.js",
+  "versions": [
+    {
+      "version": "0.2.1.20230304.150308",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "5c9700a32ff007c4e1358524cb578f171df56cba1853f0ee08497e02822dbc59",
+      "fetchedAt": "2026-04-12T16:14:48.445Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "zoom-override@DanielOnDiordna",
+  "id_hash": "zoom-override-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Zoom Override",
+  "category": "Tweaks",
+  "description": "Override the portal and links display levels for every zoom level. Using this method can cause more bandwidth usage when showing more details at higher zoom levels.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/zoom-override.user.js",
+  "versions": [
+    {
+      "version": "1.2.0.20240122.225900",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "665dd2cdedc283de6eeecedd894289a52d98fc4f00610cd54398109a3eb475ce",
+      "fetchedAt": "2026-04-12T16:14:47.094Z"
+    }
+  ]
+}

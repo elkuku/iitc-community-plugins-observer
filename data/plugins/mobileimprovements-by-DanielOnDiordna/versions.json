@@ -1,0 +1,18 @@
+{
+  "id": "mobileimprovements@DanielOnDiordna",
+  "id_hash": "mobileimprovements-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Mobile improvements",
+  "category": "Misc",
+  "description": "Add some improvements for IITC mobile, such as a close button for the portal details/info screen, a full screen button.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/mobileimprovements.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20211027.195200",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0c2317f7042b4ccfb118477aee04c59681cffd95a4e23e907c38adde19c7f636",
+      "fetchedAt": "2026-04-12T16:14:46.931Z"
+    }
+  ]
+}

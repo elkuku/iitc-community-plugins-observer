@@ -1,0 +1,18 @@
+{
+  "id": "cells@DanielOnDiordna",
+  "id_hash": "cells-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Cells areas at portal level",
+  "category": "Layer",
+  "description": "Show the S2 cells areas on the map at portal zoom level. A tiny area instead of a score region. Also shows larger S2 cells when zooming out. Using geoJson instead of geodesicPolyline.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/cells.user.js",
+  "versions": [
+    {
+      "version": "0.0.4.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "915e802e64b7455bcf76205a4a85be685441a71f90d3f2ddd2db2d18ef05166e",
+      "fetchedAt": "2026-04-12T16:14:46.591Z"
+    }
+  ]
+}

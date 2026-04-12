@@ -1,0 +1,18 @@
+{
+  "id": "uniques-gdpr@xificurk",
+  "id_hash": "uniques-gdpr-by-xificurk",
+  "author": "xificurk",
+  "name": "show uniques visit/captures based on GDPR game_log",
+  "category": "Misc",
+  "description": "Show uniques visit/captures based on GDPR game_log",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xificurk/uniques-gdpr.user.js",
+  "versions": [
+    {
+      "version": "0.1.0.20201122.121942",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ee1e705fff004faad7282fa9cc8ae46fc6e16fac7e1a3ce651b0c1b2227100c9",
+      "fetchedAt": "2026-04-12T16:14:48.455Z"
+    }
+  ]
+}

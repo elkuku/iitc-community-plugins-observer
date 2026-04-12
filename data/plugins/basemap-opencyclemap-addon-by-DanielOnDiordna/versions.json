@@ -1,0 +1,18 @@
+{
+  "id": "basemap-opencyclemap-addon@DanielOnDiordna",
+  "id_hash": "basemap-opencyclemap-addon-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "OpenCycleMap.org map tiles add-on",
+  "category": "Addon",
+  "description": "Add-on to set an API KEY for the Thunderforest map tiles (OpenCycleMap). To make things easier, the Add-on already includes the code from the OpenCycleMap plugin.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/basemap-opencyclemap-addon.user.js",
+  "versions": [
+    {
+      "version": "1.0.1.20220712.094300",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "aab334437580aab83536b5b59459b2ffc437909b24a07547fee70f0448ed2abf",
+      "fetchedAt": "2026-04-12T16:14:46.513Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "free-sidebar@Zaso",
+  "id_hash": "free-sidebar-by-Zaso",
+  "author": "Zaso",
+  "name": "Free Sidebar",
+  "category": "Controls",
+  "description": "Reduces use of sidebar.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/free-sidebar.user.js",
+  "versions": [
+    {
+      "version": "0.0.5.20240307.074938",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7407e77e720b79c1569ca9228971f9bf43c38531f46edbe7565fc8247b0b526f",
+      "fetchedAt": "2026-04-12T16:14:47.673Z"
+    }
+  ]
+}

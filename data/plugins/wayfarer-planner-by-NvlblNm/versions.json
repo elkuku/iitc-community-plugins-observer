@@ -1,0 +1,18 @@
+{
+  "id": "wayfarer-planner@NvlblNm",
+  "id_hash": "wayfarer-planner-by-NvlblNm",
+  "author": "NvlblNm",
+  "name": "Wayfarer Planner",
+  "category": "Layer",
+  "description": "Place markers on the map for your candidates in Wayfarer.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/NvlblNm/wayfarer-planner.user.js",
+  "versions": [
+    {
+      "version": "1.181",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "939515405bab42e33468a307b076068af081d9a81fe5f8172d2a29e514ff8615",
+      "fetchedAt": "2026-04-12T16:14:47.375Z"
+    }
+  ]
+}

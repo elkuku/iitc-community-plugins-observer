@@ -1,0 +1,18 @@
+{
+  "id": "local-storage-manager@GMOogway",
+  "id_hash": "local-storage-manager-by-GMOogway",
+  "author": "GMOogway",
+  "name": "Local Storage Manager",
+  "category": "Controls",
+  "description": "LocalStorageManager plugin by GMOogway.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/GMOogway/local-storage-manager.user.js",
+  "versions": [
+    {
+      "version": "0.1.0.20190214",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e1e702b103681ddc9a67c86498b5d45ca9e39b478a187ec09fc032a8abea3c8f",
+      "fetchedAt": "2026-04-12T16:14:47.204Z"
+    }
+  ]
+}

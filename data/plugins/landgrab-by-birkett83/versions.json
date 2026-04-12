@@ -1,0 +1,18 @@
+{
+  "id": "landgrab@birkett83",
+  "id_hash": "landgrab-by-birkett83",
+  "author": "birkett83",
+  "name": "Landgrab",
+  "category": "Misc",
+  "description": "A mini-game based on ingress and IITC",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/birkett83/landgrab.user.js",
+  "versions": [
+    {
+      "version": "0.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0892ebba18a63984a8251b30e97ee672b93b9830bb6ea6539e48393153f82d74",
+      "fetchedAt": "2026-04-12T16:14:47.978Z"
+    }
+  ]
+}

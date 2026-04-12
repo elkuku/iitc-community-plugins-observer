@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diff — IITC Community Plugins Observer</title>
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/diff2html/bundles/css/diff2html.min.css" />
+</head>
+<body>
+  <header>
+    <a id="back-link" href="/" class="back-link">← Plugin</a>
+    <h1 id="diff-title">Diff</h1>
+    <p id="diff-meta" class="subtitle"></p>
+  </header>
+
+  <main>
+    <div class="diff-toolbar">
+      <button id="toggle-mode">Switch to Side-by-Side</button>
+      <button id="copy-permalink">Copy Permalink</button>
+    </div>
+    <div id="diff-output" class="diff-output">
+      <p class="loading">Loading diff…</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>Data sourced from <a href="https://github.com/IITC-CE/Community-plugins">IITC-CE/Community-plugins</a></p>
+  </footer>
+
+  <script type="module" src="/js/diff-viewer.js"></script>
+</body>
+</html>

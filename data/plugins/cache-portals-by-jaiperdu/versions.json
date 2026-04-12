@@ -1,0 +1,18 @@
+{
+  "id": "cache-portals@jaiperdu",
+  "id_hash": "cache-portals-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "Cache visible portals",
+  "category": "Cache",
+  "description": "Cache the data of visible portals and use this to populate the map when possible",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/cache-portals.user.js",
+  "versions": [
+    {
+      "version": "0.4.3",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "bca3e5b9c50d93920bc12c636f237132b6b64606a1823628156b29f41fda1441",
+      "fetchedAt": "2026-04-12T16:14:48.064Z"
+    }
+  ]
+}

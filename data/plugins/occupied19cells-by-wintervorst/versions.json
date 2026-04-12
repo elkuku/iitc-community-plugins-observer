@@ -1,0 +1,18 @@
+{
+  "id": "occupied19cells@wintervorst",
+  "id_hash": "occupied19cells-by-wintervorst",
+  "author": "Wintervorst",
+  "name": "L19 Cells for Ingress",
+  "category": "Layer",
+  "description": "Highlights level 19 cells where portal limit is reached, in order to see where you would best submit new candidates",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/wintervorst/occupied19cells.user.js",
+  "versions": [
+    {
+      "version": "0.0.8.20241120.013370",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "5e412b9aeccbd63058c1ada40199a47b90e7896d2eea6d44338846b128446d2e",
+      "fetchedAt": "2026-04-12T16:14:48.324Z"
+    }
+  ]
+}

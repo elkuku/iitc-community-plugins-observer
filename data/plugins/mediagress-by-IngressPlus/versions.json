@@ -1,0 +1,18 @@
+{
+  "id": "mediagress@IngressPlus",
+  "id_hash": "mediagress-by-IngressPlus",
+  "author": "IngressPlus",
+  "name": "Mediagress",
+  "category": "Misc",
+  "description": "Upload and contribute your Media to Mediagress. Requires a C.O.R.E. subscription to access your Inventory.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/IngressPlus/mediagress.user.js",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "13e59e6f42c0f7f2f8831a44294e8146123d62c255b92696897bb88be29eabb3",
+      "fetchedAt": "2026-04-12T16:14:47.215Z"
+    }
+  ]
+}

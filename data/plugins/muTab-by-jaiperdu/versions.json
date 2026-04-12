@@ -1,0 +1,18 @@
+{
+  "id": "muTab@jaiperdu",
+  "id_hash": "muTab-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "MUs Tab",
+  "category": "COMM",
+  "description": "Add a MUs tab scoring the MU",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/muTab.user.js",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "bf416cd084a7200f4dc09846ae1fdd429254f3020d1ddcb9d48d821ced19ef7d",
+      "fetchedAt": "2026-04-12T16:14:48.230Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "portaldetailsmod@Whomiga",
+  "id_hash": "portaldetailsmod-by-Whomiga",
+  "author": "Whomiga",
+  "name": "Portal Detail Mods",
+  "category": "Info",
+  "description": "Show Mod Pictures in Portal Details",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Whomiga/portaldetailsmod.user.js",
+  "versions": [
+    {
+      "version": "0.16.0",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7aa508bb8daae3bf95740a7e6ef54befa72488c769715ca3569e415850b58969",
+      "fetchedAt": "2026-04-12T16:14:47.753Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ImageOverlay2@McBen",
+  "id_hash": "ImageOverlay2-by-McBen",
+  "author": "Hevne",
+  "name": "ImageOverlay2",
+  "category": "Draw",
+  "description": "Add an image to your map.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/McBen/ImageOverlay2.user.js",
+  "versions": [
+    {
+      "version": "1.0",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "b518acbb755dee2cb41fc5bc8265008025b73320f61ef367ff6b200c08f6274e",
+      "fetchedAt": "2026-04-12T16:14:47.256Z"
+    }
+  ]
+}

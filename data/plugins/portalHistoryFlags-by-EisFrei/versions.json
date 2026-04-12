@@ -1,0 +1,18 @@
+{
+  "id": "portalHistoryFlags@EisFrei",
+  "id_hash": "portalHistoryFlags-by-EisFrei",
+  "author": "EisFrei",
+  "name": "Portal History Flags",
+  "category": "Layer",
+  "description": "Shows Visited/Captured/Scouted status above portal markers",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/EisFrei/portalHistoryFlags.user.js",
+  "versions": [
+    {
+      "version": "0.0.10",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e5b0dcca36a1f377a98bbd51918402499b815fdb630d5822d5d8125b68cf5ae4",
+      "fetchedAt": "2026-04-12T16:14:47.128Z"
+    }
+  ]
+}

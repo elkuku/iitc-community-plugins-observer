@@ -1,0 +1,18 @@
+{
+  "id": "keepalldata@DanielOnDiordna",
+  "id_hash": "keepalldata-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Keep all data",
+  "category": "Cache",
+  "description": "Use the layer selector to toggle Keep all portals and Keep all links, to keep all out of view portals and links loaded (be aware that currently destroyed links are not removed when these options are switched on)",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/keepalldata.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20220711.233600",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "a905414a4e83f3f8694133bfdcbfab30401bf4471aead624ab6af2db7884b29c",
+      "fetchedAt": "2026-04-12T16:14:46.817Z"
+    }
+  ]
+}

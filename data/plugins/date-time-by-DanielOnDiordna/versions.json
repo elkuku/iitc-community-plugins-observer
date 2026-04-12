@@ -1,0 +1,18 @@
+{
+  "id": "date-time@DanielOnDiordna",
+  "id_hash": "date-time-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Date and time",
+  "category": "Controls",
+  "description": "Show date and time on the map, configurable time formatting, select a manual timezone, or automated timezones with your free GeoNames account.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/date-time.user.js",
+  "versions": [
+    {
+      "version": "2.2.1.20230824.100900",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7e85f269a3187f432d308df56cec1c4c30ab7ab21a7ed4c9238fc4e077f3e522",
+      "fetchedAt": "2026-04-12T16:14:46.774Z"
+    }
+  ]
+}

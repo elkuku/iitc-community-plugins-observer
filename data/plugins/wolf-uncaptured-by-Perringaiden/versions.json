@@ -1,0 +1,18 @@
+{
+  "id": "wolf-uncaptured@Perringaiden",
+  "id_hash": "wolf-uncaptured-by-Perringaiden",
+  "author": "Perringaiden",
+  "name": "Non Captured/Visited/Scout Highlighters",
+  "category": "Misc",
+  "description": "",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Perringaiden/wolf-uncaptured.user.js",
+  "versions": [
+    {
+      "version": "0.7",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "1dd2b6aaeb8bfd28a4933c2e628404cf31eb06c06650dc9fce7f3dcb4cf1f33e",
+      "fetchedAt": "2026-04-12T16:14:47.419Z"
+    }
+  ]
+}

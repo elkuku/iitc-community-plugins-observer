@@ -1,0 +1,18 @@
+{
+  "id": "imageOverlay@DanielOnDiordna",
+  "id_hash": "imageOverlay-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "imageOverlay",
+  "category": "Layer",
+  "description": "Place an image on the map, to help draw field art",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/imageOverlay.user.js",
+  "versions": [
+    {
+      "version": "0.0.1.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "4c62ba42e3675c2ae1c23866dcbdf967869a8d0f5a08c3dd1bf0a7c695feac86",
+      "fetchedAt": "2026-04-12T16:14:46.796Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "loadmorecommshistory@DanielOnDiordna",
+  "id_hash": "loadmorecommshistory-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Load more COMMS history",
+  "category": "Tweak",
+  "description": "Load more COMMS history without scrolling back, usefull for other plugins",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/loadmorecommshistory.user.js",
+  "versions": [
+    {
+      "version": "0.0.3.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e2bdc2305c41752dd10d5b6516714171ed1dad679cc232babc1997c489e565e9",
+      "fetchedAt": "2026-04-12T16:14:46.842Z"
+    }
+  ]
+}

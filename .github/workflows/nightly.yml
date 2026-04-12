@@ -1,0 +1,103 @@
+name: Nightly Plugin Fetch
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 1 AM UTC — upstream Community-plugins runs at midnight
+  workflow_dispatch:
+    inputs:
+      force_rebuild:
+        description: 'Force site rebuild even if no plugin changes were detected'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  # ── Job 1: fetch upstream, write snapshots, commit if changed ─────────────
+  fetch:
+    name: Fetch & Snapshot
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.check.outputs.changed }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install script dependencies
+        run: npm ci
+        working-directory: scripts
+
+      - name: Fetch plugins and record snapshots
+        run: node fetch.js
+        working-directory: scripts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Detect changes in data/
+        id: check
+        run: |
+          git add data/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No plugin changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git diff --cached --stat
+          fi
+
+      - name: Commit snapshots
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: snapshot $(date -u +%Y-%m-%d)"
+          git push
+
+  # ── Job 2: build Vite site and deploy to GitHub Pages ─────────────────────
+  build-and-deploy:
+    name: Build & Deploy Pages
+    needs: fetch
+    if: needs.fetch.outputs.changed == 'true' || github.event.inputs.force_rebuild == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # re-checkout to pick up the just-committed snapshots
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install site dependencies
+        run: npm ci
+        working-directory: site
+
+      - name: Copy data into site public/ and build
+        run: node scripts/build-site.js
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

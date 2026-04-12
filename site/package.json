@@ -1,0 +1,18 @@
+{
+  "name": "iitc-plugins-observer-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "diff": "^7.0.0",
+    "diff2html": "^3.4.48"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

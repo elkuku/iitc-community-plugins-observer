@@ -1,0 +1,18 @@
+{
+  "id": "layers-profiles@Zaso",
+  "id_hash": "layers-profiles-by-Zaso",
+  "author": "Zaso",
+  "name": "Layers Profiles",
+  "category": "Controls",
+  "description": "Saves the current enabled layers (base, overlays and hightlighter). Restore it just a click.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/layers-profiles.user.js",
+  "versions": [
+    {
+      "version": "0.1.4",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "348172153ca4aa598f9be03a77e62f10d2fcd36a9b5c7aab5255385b52b7ee17",
+      "fetchedAt": "2026-04-12T16:14:47.725Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "minify-some-portal-details@Zaso",
+  "id_hash": "minify-some-portal-details-by-Zaso",
+  "author": "Zaso",
+  "name": "Minify Some Portals Details",
+  "category": "Tweaks",
+  "description": "Minify some Portal Details in sidebar: mod slots and resonators info",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/minify-some-portal-details.user.js",
+  "versions": [
+    {
+      "version": "0.0.4.20200216.174030",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "a6d59fbdcdfd423e0228287617a8cbb1874d03c7bfd570ac7f71e3a18db5a364",
+      "fetchedAt": "2026-04-12T16:14:47.817Z"
+    }
+  ]
+}

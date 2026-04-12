@@ -1,0 +1,18 @@
+{
+  "id": "wolf-linked-highlighter@Perringaiden",
+  "id_hash": "wolf-linked-highlighter-by-Perringaiden",
+  "author": "Perringaiden",
+  "name": "Hide portals that aren't linked or fielded.",
+  "category": "Highlighter",
+  "description": "Hides any portal that doesn't have a link or field from it.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Perringaiden/wolf-linked-highlighter.user.js",
+  "versions": [
+    {
+      "version": "0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "a86cb4b0f8901b1d91234d77db6f6877ea9a80398987f7ddd5469f6b0b6d0e3b",
+      "fetchedAt": "2026-04-12T16:14:47.399Z"
+    }
+  ]
+}

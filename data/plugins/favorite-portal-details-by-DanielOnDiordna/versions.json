@@ -1,0 +1,18 @@
+{
+  "id": "favorite-portal-details@DanielOnDiordna",
+  "id_hash": "favorite-portal-details-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Favorite portal details",
+  "category": "Info",
+  "description": "Quickly show a list of details for your favorite list of portals.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/favorite-portal-details.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20251025.232300",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0ab1c9fe0aecd3134768cc734d0d640cdc89e35bbc670beb58e77c6f1073df94",
+      "fetchedAt": "2026-04-12T16:14:46.658Z"
+    }
+  ]
+}

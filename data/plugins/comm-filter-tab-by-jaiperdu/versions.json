@@ -1,0 +1,18 @@
+{
+  "id": "comm-filter-tab@jaiperdu",
+  "id_hash": "comm-filter-tab-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "COMM Filter Tab",
+  "category": "COMM",
+  "description": "Show virus in the regular Comm and add a new tab with portal/player name filter and event type filter.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/comm-filter-tab.user.js",
+  "versions": [
+    {
+      "version": "0.4.13",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "2e56390bb68814ce25a21b247f40e71688801677c94fa264c8dbc5a98a2afe1d",
+      "fetchedAt": "2026-04-12T16:14:48.094Z"
+    }
+  ]
+}

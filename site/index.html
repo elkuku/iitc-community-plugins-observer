@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IITC Community Plugins Observer</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>IITC Community Plugins Observer</h1>
+    <p class="subtitle">Tracking changes to all <a href="https://github.com/IITC-CE/Community-plugins" target="_blank">IITC-CE Community Plugins</a></p>
+  </header>
+
+  <main>
+    <section id="stats" class="stats-bar">
+      <span id="stat-total">— plugins</span>
+      <span id="stat-updated">— updated today</span>
+      <span id="stat-generated">last checked: —</span>
+    </section>
+
+    <section id="recent-changes">
+      <h2>Recent Changes</h2>
+      <ul id="recent-list" class="recent-list"><li class="loading">Loading…</li></ul>
+    </section>
+
+    <section id="plugin-list-section">
+      <h2>All Plugins</h2>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search name, author, category…" autocomplete="off" />
+        <select id="filter-category">
+          <option value="">All categories</option>
+        </select>
+        <select id="filter-status">
+          <option value="">All statuses</option>
+          <option value="active">Active</option>
+          <option value="removed">Removed</option>
+        </select>
+      </div>
+      <table id="plugin-table">
+        <thead>
+          <tr>
+            <th data-sort="name">Name</th>
+            <th data-sort="author">Author</th>
+            <th data-sort="category">Category</th>
+            <th data-sort="latestVersion">Latest Version</th>
+            <th data-sort="latestDate">Last Updated</th>
+            <th data-sort="snapshotCount">Snapshots</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="plugin-tbody">
+          <tr><td colspan="7" class="loading">Loading…</td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>Data sourced from <a href="https://github.com/IITC-CE/Community-plugins">IITC-CE/Community-plugins</a> · Updated nightly via GitHub Actions</p>
+  </footer>
+
+  <script type="module" src="/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "id": "submitrange@wintervorst",
+  "id_hash": "submitrange-by-wintervorst",
+  "author": "Wintervorst",
+  "name": "Portal submitrange",
+  "category": "Layer",
+  "description": "Shows the 'too close' radius of existing portals, in order to see where you can search for and submit new candidates",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/wintervorst/submitrange.user.js",
+  "versions": [
+    {
+      "version": "1.0.13.20241120.013370",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ceb0f1bf1fc5e5e455800ae8c1a6eb82a6fac840712825b628c039fc0763c9d5",
+      "fetchedAt": "2026-04-12T16:14:48.352Z"
+    }
+  ]
+}

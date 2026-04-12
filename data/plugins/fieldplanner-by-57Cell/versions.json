@@ -1,0 +1,18 @@
+{
+  "id": "fieldplanner@57Cell",
+  "id_hash": "fieldplanner-by-57Cell",
+  "author": "57Cell",
+  "name": "57Cell's Field Planner",
+  "category": "Layer",
+  "description": "Plugin for planning fields in IITC",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/57Cell/fieldplanner.user.js",
+  "versions": [
+    {
+      "version": "2.1.9.20250810",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ed2b4ebccf42dae0e595cccda7371a3b473c0c239fa8387d2c500cd9226c2656",
+      "fetchedAt": "2026-04-12T16:14:46.519Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "portals-list-addon@DanielOnDiordna",
+  "id_hash": "portals-list-addon-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Portals list add-on",
+  "category": "Addon",
+  "description": "Add-on to only display portals for visible/enabled layers, a fix for Unclaimed/Placeholder Portals, added level filters and load portal details.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/portals-list-addon.user.js",
+  "versions": [
+    {
+      "version": "1.1.0.20230321.232000",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c74c2a9ac1862b4521ccf15fe45bdb093a722aa39f615fd4c634a3eedf6bee0a",
+      "fetchedAt": "2026-04-12T16:14:46.983Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "toiletlocations@DanielOnDiordna",
+  "id_hash": "toiletlocations-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Toilet locations",
+  "category": "Layer",
+  "description": "Show public toilet locations in The Netherlands (using data from hogenood.nl)",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/toiletlocations.user.js",
+  "versions": [
+    {
+      "version": "0.0.1.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c6a548a219bb0965b1840161814c47b53b26883e417757504a470a545021fbec",
+      "fetchedAt": "2026-04-12T16:14:47.084Z"
+    }
+  ]
+}

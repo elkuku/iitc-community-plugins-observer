@@ -1,0 +1,18 @@
+{
+  "id": "last-action-timestamp@Zaso",
+  "id_hash": "last-action-timestamp-by-Zaso",
+  "author": "Zaso",
+  "name": "Last Action Timestamp",
+  "category": "Info",
+  "description": "Estimate the portal decaying.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/last-action-timestamp.user.js",
+  "versions": [
+    {
+      "version": "0.0.3.20200216.174029",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "268382a0f90d01b4571e2e1dbe33d51c5139c6cea8e6f78107b8a2193ec2ff1a",
+      "fetchedAt": "2026-04-12T16:14:47.683Z"
+    }
+  ]
+}

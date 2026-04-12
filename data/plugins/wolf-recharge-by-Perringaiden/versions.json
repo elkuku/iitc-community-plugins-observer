@@ -1,0 +1,18 @@
+{
+  "id": "wolf-recharge@Perringaiden",
+  "id_hash": "wolf-recharge-by-Perringaiden",
+  "author": "Perringaiden",
+  "name": "Highlight field anchors that need recharging",
+  "category": "Highlighter",
+  "description": "Use the portal fill color to denote if the portal needs recharging and how much. Yellow: above 85%. Orange: above 50%. Red: above 15%. Magenta: below 15%.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Perringaiden/wolf-recharge.user.js",
+  "versions": [
+    {
+      "version": "0.4",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e53ceb0310f7a19a61e5ea45cee5880b82f6c2c5048e45c15157d481ca1512c5",
+      "fetchedAt": "2026-04-12T16:14:47.407Z"
+    }
+  ]
+}

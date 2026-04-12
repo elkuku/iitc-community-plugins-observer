@@ -1,0 +1,18 @@
+{
+  "id": "consolelog@DanielOnDiordna",
+  "id_hash": "consolelog-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Console log",
+  "category": "Misc",
+  "description": "Display the Console log in a window, captures console.log and console.warn. Execute Javascript commands with the eval field, results are displayed with JSON.stringify formatting",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/consolelog.user.js",
+  "versions": [
+    {
+      "version": "0.0.1.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "466575438d5e249a8eacd4bedcc5a40f1f8bbb50586e5862b459fa8ac1d379e8",
+      "fetchedAt": "2026-04-12T16:14:46.628Z"
+    }
+  ]
+}

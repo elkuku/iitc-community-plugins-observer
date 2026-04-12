@@ -1,0 +1,18 @@
+{
+  "id": "team-bookmarks@DanielOnDiordna",
+  "id_hash": "team-bookmarks-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Team bookmarks",
+  "category": "Controls",
+  "description": "Easily add or remove bookmarks for all portals within visible range per team. This plugin requires the Bookmarks plugin and optionally the Bookmarks add-on (to enable color bookmarks).",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/team-bookmarks.user.js",
+  "versions": [
+    {
+      "version": "0.0.5.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "16a7732523ff1c5dd557a5b0ed298cbb0fe2e87761a38af58c6f64404f83ae21",
+      "fetchedAt": "2026-04-12T16:14:47.070Z"
+    }
+  ]
+}

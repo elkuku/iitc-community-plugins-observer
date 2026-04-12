@@ -1,0 +1,18 @@
+{
+  "id": "backup-restore-alldata@DanielOnDiordna",
+  "id_hash": "backup-restore-alldata-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Backup/restore all data",
+  "category": "Misc",
+  "description": "With this plugin you can backup all your localstorage data, so you can save it to a text file, and you can also restore all data. This can be usefull to transfer your settings to another device, or to make a backup before reinstalling IITC. You can also view or delete stored data.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/backup-restore-alldata.user.js",
+  "versions": [
+    {
+      "version": "1.0.1.20221019.225200",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "5f36b7e9fc869de817a8aec24a4d09e3f41e04540d96ff08af9572cd7ff6f85d",
+      "fetchedAt": "2026-04-12T16:14:46.480Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "advanced_player_tracker@BlancLapin",
+  "id_hash": "advanced_player_tracker-by-BlancLapin",
+  "author": "BlancLapin",
+  "name": "Advanced Tracker Player",
+  "category": "Misc",
+  "description": "Advanced version of Player Tracker",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/BlancLapin/advanced_player_tracker.user.js",
+  "versions": [
+    {
+      "version": "0.0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "512e446a03cc9cb461fd36133d203cf81e33cae3c6fc33b9296ff3532a772639",
+      "fetchedAt": "2026-04-12T16:14:46.504Z"
+    }
+  ]
+}

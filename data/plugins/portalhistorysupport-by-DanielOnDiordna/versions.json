@@ -1,0 +1,18 @@
+{
+  "id": "portalhistorysupport@DanielOnDiordna",
+  "id_hash": "portalhistorysupport-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Portal History Support for all IITC versions (with cache)",
+  "category": "Tweak",
+  "description": "With this plugin the Portal History will be implemented into all versions of IITC. This plugin injects functionality from the IITC-CE release (version 0.32.0) plus extra modifications into all IITC versions (IITC.me / IITC-CE 0.31.1). Code will be injected into the IITC core. History results are cached and re-used automatically. Details from your COMMS captured portals are loaded automatically. Temporary disabled for IITC 0.40.0",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/portalhistorysupport.user.js",
+  "versions": [
+    {
+      "version": "0.0.4.20250424.230000",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ab1d2138850baae198c1daa293b7111f3b31f33b78e9eac34cc9f1a626fd3746",
+      "fetchedAt": "2026-04-12T16:14:46.943Z"
+    }
+  ]
+}

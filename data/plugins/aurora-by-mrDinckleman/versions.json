@@ -1,0 +1,18 @@
+{
+  "id": "aurora@mrDinckleman",
+  "id_hash": "aurora-by-mrDinckleman",
+  "author": "mrDinckleman",
+  "name": "Aurora Glyph Hack Challenge",
+  "category": "Misc",
+  "description": "Allow manual entry of portals glyphed during Aurora Glyph Hack Challenge. Use the 'highlighter-aurora' plugin to show the portals on the map, and 'sync' to share between multiple browsers or desktop/mobile.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/mrDinckleman/aurora.user.js",
+  "versions": [
+    {
+      "version": "0.1.1.20190821.192931",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "5c6b9b7e8b91d3c50bb8678f9ed7522e888a34749a384beeb028f040f653b7c7",
+      "fetchedAt": "2026-04-12T16:14:48.272Z"
+    }
+  ]
+}

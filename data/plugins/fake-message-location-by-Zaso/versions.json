@@ -1,0 +1,18 @@
+{
+  "id": "fake-message-location@Zaso",
+  "id_hash": "fake-message-location-by-Zaso",
+  "author": "Zaso",
+  "name": "Fake Message Location",
+  "category": "Misc",
+  "description": "Set a location. The COMM messages you send will have the setted location.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/fake-message-location.user.js",
+  "versions": [
+    {
+      "version": "0.1.1.20200216.174029",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "12b48ffdb9e52ef9091af1daeb892c1dd68ff23abccebe9a2be401661b63b82c",
+      "fetchedAt": "2026-04-12T16:14:47.674Z"
+    }
+  ]
+}

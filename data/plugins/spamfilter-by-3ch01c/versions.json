@@ -1,0 +1,18 @@
+{
+  "id": "spamfilter@3ch01c",
+  "id_hash": "spamfilter-by-3ch01c",
+  "author": "3ch01c",
+  "name": "spam-filter",
+  "category": "Misc",
+  "description": "This is a spam filter plugin which filters out SPAM from Comm messages.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/3ch01c/spamfilter.user.js",
+  "versions": [
+    {
+      "version": "0.0.7",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "b6ee9f7555591aa431b798a76cfc424cdb1c3f122202fdafca6177ff47258434",
+      "fetchedAt": "2026-04-12T16:14:46.512Z"
+    }
+  ]
+}

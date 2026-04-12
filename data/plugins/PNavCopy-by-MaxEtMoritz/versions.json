@@ -1,0 +1,18 @@
+{
+  "id": "PNavCopy@MaxEtMoritz",
+  "id_hash": "PNavCopy-by-MaxEtMoritz",
+  "author": "MaxEtMoritz",
+  "name": "Copy PokeNav Command",
+  "category": "Misc",
+  "description": "Copy portal info to clipboard or send it to Discord in the format the PokeNav Discord bot needs.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/MaxEtMoritz/PNavCopy.user.js",
+  "versions": [
+    {
+      "version": "1.8.0",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "42f128a7595364bea85766f07d141206445c3b94bbab9c618d697134213cf2c2",
+      "fetchedAt": "2026-04-12T16:14:47.236Z"
+    }
+  ]
+}

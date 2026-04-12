@@ -1,0 +1,18 @@
+{
+  "id": "hide-ui@Zaso",
+  "id_hash": "hide-ui-by-Zaso",
+  "author": "Zaso",
+  "name": "Hide UI Zaso",
+  "category": "Controls",
+  "description": "Hide all UI for screenshot.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/hide-ui.user.js",
+  "versions": [
+    {
+      "version": "0.1.4.20200528.070838",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "09de226848d448b724037f3fdc19bc64918586caf224c4a4b6c0384c13208cf2",
+      "fetchedAt": "2026-04-12T16:14:47.678Z"
+    }
+  ]
+}

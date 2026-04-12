@@ -1,0 +1,18 @@
+{
+  "id": "DroneRange@VE6SRV",
+  "id_hash": "DroneRange-by-VE6SRV",
+  "author": "VE6SRV",
+  "name": "dronerange",
+  "category": "Layer",
+  "description": "Shows drone flight distance between portals",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/VE6SRV/DroneRange.user.js",
+  "versions": [
+    {
+      "version": "0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e3b1351520c739a45fa58a46ef066203d60788e2d82642308e5d380d91613773",
+      "fetchedAt": "2026-04-12T16:14:47.506Z"
+    }
+  ]
+}

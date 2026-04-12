@@ -1,0 +1,18 @@
+{
+  "id": "KMLImport@McBen",
+  "id_hash": "KMLImport-by-McBen",
+  "author": "McBen",
+  "name": "KMLImport",
+  "category": "Draw",
+  "description": "Import KML/GPX/Geojson/TCX into DrawTools",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/McBen/KMLImport.user.js",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "755253f7b48e5dc90dfd10ffaf65af7e4fdcd0194b1a4f353d6894bccb75403e",
+      "fetchedAt": "2026-04-12T16:14:47.374Z"
+    }
+  ]
+}

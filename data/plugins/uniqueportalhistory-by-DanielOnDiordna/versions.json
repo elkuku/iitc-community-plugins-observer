@@ -1,0 +1,18 @@
+{
+  "id": "uniqueportalhistory@DanielOnDiordna",
+  "id_hash": "uniqueportalhistory-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Unique Portal History",
+  "category": "Layer",
+  "description": "Show your personal unique portal history for Visited, Captured or Scout Controlled portals with layers. Choose your own colors for Resistance, Enlightened, Machina and Neutral portals. Place bookmarks. Invert results! Add three extra Portals List plugin columns. Does not require CORE subscription.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/uniqueportalhistory.user.js",
+  "versions": [
+    {
+      "version": "2.2.0.20240525.141200",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ba2ae409f605f4534edf8312e2d918a3a310abe31aa102f138531482657d6971",
+      "fetchedAt": "2026-04-12T16:14:47.166Z"
+    }
+  ]
+}

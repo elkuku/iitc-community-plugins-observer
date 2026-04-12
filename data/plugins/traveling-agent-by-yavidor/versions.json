@@ -1,0 +1,18 @@
+{
+  "id": "traveling-agent@yavidor",
+  "id_hash": "traveling-agent-by-yavidor",
+  "author": "yavidor",
+  "name": "Traveling Agent",
+  "category": "Misc",
+  "description": "Calculates the best route between the player's location and a series of portals",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/yavidor/traveling-agent.user.js",
+  "versions": [
+    {
+      "version": "0.0.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0e79295539192660beeb6efbb82a9845185a53c86febd565e91df304a55a27c2",
+      "fetchedAt": "2026-04-12T16:14:48.454Z"
+    }
+  ]
+}

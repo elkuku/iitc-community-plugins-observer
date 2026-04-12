@@ -1,0 +1,18 @@
+{
+  "id": "draw-best-link-star@Tarsi210",
+  "id_hash": "draw-best-link-star-by-Tarsi210",
+  "author": "Tarsi210",
+  "name": "Draw Best Link Star",
+  "category": "Info",
+  "description": "Build the best link star in an area.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Tarsi210/draw-best-link-star.user.js",
+  "versions": [
+    {
+      "version": "0.0.8",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "27d16070873147fde567fdb27d272edc833a48c57bf88119a053066e91acdd57",
+      "fetchedAt": "2026-04-12T16:14:47.444Z"
+    }
+  ]
+}

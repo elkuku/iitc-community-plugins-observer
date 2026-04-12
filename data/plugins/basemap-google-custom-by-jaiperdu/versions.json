@@ -1,0 +1,18 @@
+{
+  "id": "basemap-google-custom@jaiperdu",
+  "id_hash": "basemap-google-custom-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "Custom Google map",
+  "category": "Map Tiles",
+  "description": "Add a customizable Version of Google map tiles as a base layer.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/basemap-google-custom.user.js",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "d3afec41e8242c265c12bb84fec8f232af681fc9eb0331e7603c7e39afb98932",
+      "fetchedAt": "2026-04-12T16:14:48.087Z"
+    }
+  ]
+}

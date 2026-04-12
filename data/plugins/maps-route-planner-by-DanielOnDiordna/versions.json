@@ -1,0 +1,18 @@
+{
+  "id": "maps-route-planner@DanielOnDiordna",
+  "id_hash": "maps-route-planner-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Maps Route Planner",
+  "category": "Navigate",
+  "description": "Plan a route with multiple portals and open Google Maps (max 9 waypoints) or Apple Maps (iOS 16+ supports waypoints) to start your navigation.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/maps-route-planner.user.js",
+  "versions": [
+    {
+      "version": "3.0.0.20240307.220600",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "6127de5eeab31e5b561e604da5b6bb14d0f73e8e3305c0a72be41fc20bd2401d",
+      "fetchedAt": "2026-04-12T16:14:47.006Z"
+    }
+  ]
+}

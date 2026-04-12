@@ -1,0 +1,18 @@
+{
+  "id": "see-more@DanielOnDiordna",
+  "id_hash": "see-more-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "See More",
+  "category": "Tweak",
+  "description": "See more portals and links when zooming out: zoom level all links changes to all portals, zoom level links>300m changes to all links. Beware: This plugin will cause slightly more data usage when zooming out.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/see-more.user.js",
+  "versions": [
+    {
+      "version": "2.0.0.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7a013b5772a6204e453e169df4b031b5130189a8443dfae8616af8e4b2493a97",
+      "fetchedAt": "2026-04-12T16:14:47.093Z"
+    }
+  ]
+}

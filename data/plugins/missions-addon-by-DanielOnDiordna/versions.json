@@ -1,0 +1,18 @@
+{
+  "id": "missions-addon@DanielOnDiordna",
+  "id_hash": "missions-addon-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Missions add-on",
+  "category": "Addon",
+  "description": "Add-on to add extra functionality for the missions plugin (up to version 0.3.0): 1: Optionally search for all missions within visible range, not just the top 25 (be aware: using this option will increase your server requests). 2: Sort the loaded missions by title (including roman numbers). 3: Show and remove stored missions. 4: Selected mission color changed to red. 5. Displayed missions show filled start portal. 6. Banner view for stored missions. 7. Transfer missions (export/import). 8. Missions routes layer can show a colorful path. 9. Redraw opened missions after IITC reloads.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/missions-addon.user.js",
+  "versions": [
+    {
+      "version": "1.1.1.20221027.234600",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "2c35d54d570fa788971a498b8f1cdff17bd671ef37d87d7a67c2f370d23d2dd9",
+      "fetchedAt": "2026-04-12T16:14:46.936Z"
+    }
+  ]
+}

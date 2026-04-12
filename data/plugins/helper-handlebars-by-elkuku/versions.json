@@ -1,0 +1,18 @@
+{
+  "id": "helper-handlebars@elkuku",
+  "id_hash": "helper-handlebars-by-elkuku",
+  "author": "elkuku",
+  "name": "KuKuHelper-Handlebars",
+  "category": "Helper",
+  "description": "A helper plugin that provides templating functionality using Handlebars",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/elkuku/helper-handlebars.user.js",
+  "versions": [
+    {
+      "version": "0.6",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "4ddba31ef242bcbcaec1fbd5f537bdb0cac0e4c69c2887be0411561d2c9c620f",
+      "fetchedAt": "2026-04-12T16:14:47.985Z"
+    }
+  ]
+}

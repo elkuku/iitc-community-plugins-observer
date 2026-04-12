@@ -1,0 +1,18 @@
+{
+  "id": "liveInventory@DanielOnDiordna",
+  "id_hash": "liveInventory-by-DanielOnDiordna",
+  "author": "EisFrei - fork by DanielOnDiordna",
+  "name": "Live Inventory",
+  "category": "Info",
+  "description": "Show current in-game inventory. Requires CORE subscription. Fork by DanielOnDiordna https://github.com/DanielOndiordna/IngressLiveInventory extras: menu buttons, refresh feedback, portals list key count, capsule view, keys in capsule view on portals, zoom keys, draw bookmarks.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/liveInventory.user.js",
+  "versions": [
+    {
+      "version": "0.0.17.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "562fc538ec245523ddcd1e777e816e21414ca8ea2792bd93c669db97f3d0e65b",
+      "fetchedAt": "2026-04-12T16:14:46.856Z"
+    }
+  ]
+}

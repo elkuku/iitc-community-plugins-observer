@@ -1,0 +1,18 @@
+{
+  "id": "inventory-overview@Guschtel",
+  "id_hash": "inventory-overview-by-Guschtel",
+  "author": "Guschtel",
+  "name": "Ingress Inventory Overview (based on Ingress Live Inventory from Freamstern)",
+  "category": "Utilities",
+  "description": "View inventory and shows portals you have keys from",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Guschtel/inventory-overview.user.js",
+  "versions": [
+    {
+      "version": "0.0.12",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c4f87d0a02073296e8ade701d11045aece8ebe2b09f9c836f5fdc317f7359b98",
+      "fetchedAt": "2026-04-12T16:14:47.231Z"
+    }
+  ]
+}

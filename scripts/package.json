@@ -1,0 +1,13 @@
+{
+  "name": "iitc-plugins-observer-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch.js",
+    "build-site": "node build-site.js"
+  },
+  "dependencies": {
+    "lib-iitc-manager": "^1.13.1"
+  }
+}

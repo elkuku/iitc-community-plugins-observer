@@ -1,0 +1,18 @@
+{
+  "id": "decay-calculator@Zaso",
+  "id_hash": "decay-calculator-by-Zaso",
+  "author": "Zaso",
+  "name": "Decay Calculator",
+  "category": "Info",
+  "description": "Estimate the portal decaying.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/decay-calculator.user.js",
+  "versions": [
+    {
+      "version": "0.0.3.20200723.162738",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "9691c5a1bd5ba0e1d95e4af6b574c0a4d04323ef63834cc19138d549c3122f4b",
+      "fetchedAt": "2026-04-12T16:14:47.556Z"
+    }
+  ]
+}

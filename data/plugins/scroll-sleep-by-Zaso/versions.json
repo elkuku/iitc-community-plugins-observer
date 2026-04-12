@@ -1,0 +1,18 @@
+{
+  "id": "scroll-sleep@Zaso",
+  "id_hash": "scroll-sleep-by-Zaso",
+  "author": "Zaso",
+  "name": "Scroll Sleep",
+  "category": "Tweaks",
+  "description": "A control to enable/disable the zoom map by scroll mouse.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/scroll-sleep.user.js",
+  "versions": [
+    {
+      "version": "0.0.3.20200216.174030",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "1045640ae3bacfffbbfa785b7a4a9ce3630152683363c302562ee13540e34bc5",
+      "fetchedAt": "2026-04-12T16:14:47.827Z"
+    }
+  ]
+}

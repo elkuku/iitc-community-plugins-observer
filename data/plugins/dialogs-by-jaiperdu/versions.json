@@ -1,0 +1,18 @@
+{
+  "id": "dialogs@jaiperdu",
+  "id_hash": "dialogs-by-jaiperdu",
+  "author": "jaiperdu",
+  "name": "Dialog List",
+  "category": "Misc",
+  "description": "List open dialogs in the sidebar",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/dialogs.user.js",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ffe330ba29aae312f0f8c5bdce73da3296ec569411ca3d4d834fa1d2c672b854",
+      "fetchedAt": "2026-04-12T16:14:48.128Z"
+    }
+  ]
+}

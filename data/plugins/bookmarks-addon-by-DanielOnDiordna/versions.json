@@ -1,0 +1,18 @@
+{
+  "id": "bookmarks-addon@DanielOnDiordna",
+  "id_hash": "bookmarks-addon-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Bookmarks add-on",
+  "category": "Addon",
+  "description": "Bookmark plugin add-on, to replace the default yellow marker by a color marker (color change requires colorpicker or drawtools), and show bookmark names (layer), including optional scaling. Modified export file with timestamp in text/plain format. Also an option for bookmarks export to kml file format (for google maps). Add/remove bookmarks with filters for level, faction, captured, visited and resonator counts. Integrated Spectrum Colorpicker 1.8.1",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/bookmarks-addon.user.js",
+  "versions": [
+    {
+      "version": "2.1.0.20240227.204800",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "4a9b210e06e6c5e5e62d569026890ac792d8ffc5b796951e7349c5d7b03903ff",
+      "fetchedAt": "2026-04-12T16:14:46.710Z"
+    }
+  ]
+}

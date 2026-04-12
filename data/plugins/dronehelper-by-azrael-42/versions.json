@@ -1,0 +1,18 @@
+{
+  "id": "dronehelper@azrael-42",
+  "id_hash": "dronehelper-by-azrael-42",
+  "author": "azrael-42",
+  "name": "Drone Helper",
+  "category": "Misc",
+  "description": "Display area drone can \"see\" from currently selected portal. Manually record if drone has visited portals",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/azrael-42/dronehelper.user.js",
+  "versions": [
+    {
+      "version": "0.5.3.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0aba628e97273e9c8a3dc602ca088f36a07ae0e16f3d05162584214f64c329e7",
+      "fetchedAt": "2026-04-12T16:14:47.902Z"
+    }
+  ]
+}

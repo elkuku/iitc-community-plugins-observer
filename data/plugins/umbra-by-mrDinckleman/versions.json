@@ -1,0 +1,18 @@
+{
+  "id": "umbra@mrDinckleman",
+  "id_hash": "umbra-by-mrDinckleman",
+  "author": "mrDinckleman",
+  "name": "Umbra Deploy Challenge",
+  "category": "Misc",
+  "description": "Allow manual entry of portals deployed during Umbra Deploy Challenge. Use the 'highlighter-umbra' plugin to show the portals on the map, and 'sync' to share between multiple browsers or desktop/mobile.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/mrDinckleman/umbra.user.js",
+  "versions": [
+    {
+      "version": "0.1.1.20191224.211839",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "8e84742eb7e140b366d90610c1142e5ae108822c1f65518af09c19e331392b42",
+      "fetchedAt": "2026-04-12T16:14:48.291Z"
+    }
+  ]
+}

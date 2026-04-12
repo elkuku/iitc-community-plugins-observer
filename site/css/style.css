@@ -1,0 +1,176 @@
+/* ---- Reset & base ---- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f1117;
+  --surface: #1a1d27;
+  --border: #2a2d3a;
+  --text: #e2e8f0;
+  --text-muted: #8892a4;
+  --accent: #6366f1;
+  --accent-hover: #818cf8;
+  --removed: #f87171;
+  --added: #4ade80;
+  --font: 'Inter', system-ui, sans-serif;
+  --mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-hover); text-decoration: underline; }
+
+/* ---- Header ---- */
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1.25rem 2rem;
+}
+header h1 { font-size: 1.4rem; font-weight: 600; }
+.subtitle { color: var(--text-muted); font-size: 0.875rem; margin-top: 0.25rem; }
+.back-link { display: inline-block; margin-bottom: 0.5rem; font-size: 0.875rem; }
+
+/* ---- Main ---- */
+main { flex: 1; padding: 1.5rem 2rem; max-width: 1400px; width: 100%; margin: 0 auto; }
+
+/* ---- Stats bar ---- */
+.stats-bar {
+  display: flex; gap: 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.75rem 1.25rem;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+.stats-bar span { white-space: nowrap; }
+
+/* ---- Sections ---- */
+section { margin-bottom: 2.5rem; }
+section h2 { font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem; }
+
+/* ---- Recent changes ---- */
+.recent-list { list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+.recent-list li { font-size: 0.875rem; }
+.recent-list .plugin-link { font-weight: 500; }
+.recent-list .change-meta { color: var(--text-muted); }
+
+/* ---- Toolbar ---- */
+.toolbar {
+  display: flex; gap: 0.75rem; flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+.toolbar input, .toolbar select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--text);
+  padding: 0.4rem 0.75rem;
+  font-size: 0.875rem;
+  outline: none;
+}
+.toolbar input { min-width: 220px; }
+.toolbar input:focus, .toolbar select:focus { border-color: var(--accent); }
+
+/* ---- Tables ---- */
+table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+thead th {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 0.9rem;
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--text-muted);
+  cursor: pointer;
+  user-select: none;
+}
+thead th:hover { color: var(--text); }
+tbody tr { border-bottom: 1px solid var(--border); }
+tbody tr:hover { background: var(--surface); }
+td { padding: 0.55rem 0.9rem; vertical-align: middle; }
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.badge-active { background: #1a3a2a; color: var(--added); }
+.badge-removed { background: #3a1a1a; color: var(--removed); }
+
+.loading { color: var(--text-muted); font-style: italic; }
+
+/* ---- Plugin detail ---- */
+#plugin-details {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.4rem 1.25rem;
+  font-size: 0.875rem;
+  margin-bottom: 1.5rem;
+}
+#plugin-details dt { color: var(--text-muted); font-weight: 500; }
+#plugin-details dd { color: var(--text); }
+
+.versions-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem; }
+
+/* ---- Buttons ---- */
+button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.45rem 1rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.15s;
+}
+button:hover:not(:disabled) { background: var(--accent-hover); }
+button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+button.secondary {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+button.secondary:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+
+/* ---- Diff viewer ---- */
+.diff-toolbar { display: flex; gap: 0.75rem; margin-bottom: 1rem; }
+.diff-output { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow: auto; }
+
+/* diff2html overrides for dark theme */
+.d2h-wrapper { background: transparent !important; }
+.d2h-file-header { background: var(--surface) !important; border-color: var(--border) !important; }
+.d2h-code-linenumber { background: var(--surface) !important; border-color: var(--border) !important; color: var(--text-muted) !important; }
+.d2h-code-line { background: var(--bg) !important; color: var(--text) !important; font-family: var(--mono) !important; }
+.d2h-ins { background: #1a3a2a !important; }
+.d2h-del { background: #3a1a1a !important; }
+.d2h-ins .d2h-code-line-ctn ins { background: #2d6a40 !important; text-decoration: none; }
+.d2h-del .d2h-code-line-ctn del { background: #7a2a2a !important; text-decoration: none; }
+
+/* ---- Footer ---- */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1rem 2rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* ---- Mono snippets ---- */
+code, .mono { font-family: var(--mono); font-size: 0.82em; }

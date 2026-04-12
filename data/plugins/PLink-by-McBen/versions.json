@@ -1,0 +1,18 @@
+{
+  "id": "PLink@McBen",
+  "id_hash": "PLink-by-McBen",
+  "author": "McBen",
+  "name": "PLink",
+  "category": "Portal Info",
+  "description": "Enhance Portal Links",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/McBen/PLink.user.js",
+  "versions": [
+    {
+      "version": "1.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "4d3012d011e115073ba1f209af9bad1e85398fa7b8dce424e267a44e33f80731",
+      "fetchedAt": "2026-04-12T16:14:47.347Z"
+    }
+  ]
+}

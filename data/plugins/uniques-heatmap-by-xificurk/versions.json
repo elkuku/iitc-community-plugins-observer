@@ -1,0 +1,18 @@
+{
+  "id": "uniques-heatmap@xificurk",
+  "id_hash": "uniques-heatmap-by-xificurk",
+  "author": "xificurk",
+  "name": "Unique visits/captures heatmap",
+  "category": "Layer",
+  "description": "Display heatmap of all portals that the player did NOT visit/capture.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xificurk/uniques-heatmap.user.js",
+  "versions": [
+    {
+      "version": "0.2.1.20210207.174711",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c639ab3bdb963e552515f5a0f9fe49700c9ba0bb66a7f67619fc6bd0b36711dc",
+      "fetchedAt": "2026-04-12T16:14:48.456Z"
+    }
+  ]
+}

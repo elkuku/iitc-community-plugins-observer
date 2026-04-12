@@ -1,0 +1,18 @@
+{
+  "id": "fontawesomeintegration@DanielOnDiordna",
+  "id_hash": "fontawesomeintegration-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Font awesome integration",
+  "category": "Tweak",
+  "description": "Font awesome: Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit (https://fontawesome.com/ using source: https://www.bootstrapcdn.com/fontawesome/).",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/fontawesomeintegration.user.js",
+  "versions": [
+    {
+      "version": "0.0.1.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "61dd3a00db2e47ab2744ef80f416108ab3c0280d9f9391295ff1c9578cd92cda",
+      "fetchedAt": "2026-04-12T16:14:46.654Z"
+    }
+  ]
+}

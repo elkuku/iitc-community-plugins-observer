@@ -1,0 +1,18 @@
+{
+  "id": "todo-list@Zaso",
+  "id_hash": "todo-list-by-Zaso",
+  "author": "Zaso",
+  "name": "To Do List",
+  "category": "Misc",
+  "description": "Add a To Do List.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/todo-list.user.js",
+  "versions": [
+    {
+      "version": "0.0.3.20200216.174030",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "bd30d5d75206efbe8443cb7094a61234d1c5ba3e92c6296e902760314ff288b4",
+      "fetchedAt": "2026-04-12T16:14:47.944Z"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "freestyler@DanielOnDiordna",
+  "id_hash": "freestyler-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Free Styler",
+  "category": "Layer",
+  "description": "This plugin gives you free choice to style colors and opacity for portals, links (width) and fields, including the new Machina portals and links.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/freestyler.user.js",
+  "versions": [
+    {
+      "version": "2.2.0.20230320.000500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "dfb8107f3701cdbc40ea63e85e81e3ce0569489daedb5a2301aff91830e44852",
+      "fetchedAt": "2026-04-12T16:14:46.680Z"
+    }
+  ]
+}

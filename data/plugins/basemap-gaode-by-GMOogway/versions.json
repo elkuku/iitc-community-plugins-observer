@@ -1,0 +1,18 @@
+{
+  "id": "basemap-gaode@GMOogway",
+  "id_hash": "basemap-gaode-by-GMOogway",
+  "author": "GMOogway",
+  "name": "Map layers from GAODE by GMOogway",
+  "category": "Map Tiles",
+  "description": "Add autonavi.com (China) map layers by GMOogway",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/GMOogway/basemap-gaode.user.js",
+  "versions": [
+    {
+      "version": "0.3.0.20190108",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e462f5cd975695fdcc6e43d7aa57fd867b9aa24838243f46cc64fcd0ddad70f2",
+      "fetchedAt": "2026-04-12T16:14:47.136Z"
+    }
+  ]
+}

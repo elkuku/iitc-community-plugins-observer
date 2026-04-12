@@ -1,0 +1,18 @@
+{
+  "id": "Microfield-checker@Xelminoe",
+  "id_hash": "Microfield-checker-by-Xelminoe",
+  "author": "Xelminoe",
+  "name": "Microfield Checker",
+  "category": "Layer",
+  "description": "Check optimal microfields inside a triangle. Ideal for nearly-completed or densely built microfields.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Xelminoe/Microfield-checker.user.js",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "0f81b5a84b38cb3d64c15f0130d895a53906325173e878557579c148a9435e22",
+      "fetchedAt": "2026-04-12T16:14:47.508Z"
+    }
+  ]
+}

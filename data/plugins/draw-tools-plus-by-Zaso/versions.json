@@ -1,0 +1,18 @@
+{
+  "id": "draw-tools-plus@Zaso",
+  "id_hash": "draw-tools-plus-by-Zaso",
+  "author": "Zaso",
+  "name": "Draw tools plus",
+  "category": "Layer",
+  "description": "Edit and improve Draw tools.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/draw-tools-plus.user.js",
+  "versions": [
+    {
+      "version": "0.1.10.20210103.185428",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "f46bd32047051922b4690bb1be54b2c95de7000900261b0a2d746f33dcb2c781",
+      "fetchedAt": "2026-04-12T16:14:47.664Z"
+    }
+  ]
+}

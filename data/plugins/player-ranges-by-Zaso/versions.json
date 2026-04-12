@@ -1,0 +1,18 @@
+{
+  "id": "player-ranges@Zaso",
+  "id_hash": "player-ranges-by-Zaso",
+  "author": "Zaso",
+  "name": "Player Ranges",
+  "category": "Layer",
+  "description": "Add one or more player markers and his ranges (hack/deploy range and xmp ranges) on the map.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Zaso/player-ranges.user.js",
+  "versions": [
+    {
+      "version": "0.3.1.20210103.154230",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7ce1d5693ee995b482bbbaa6c410d880906a312bf29a00d8f1775f3ea9dbe818",
+      "fetchedAt": "2026-04-12T16:14:47.951Z"
+    }
+  ]
+}

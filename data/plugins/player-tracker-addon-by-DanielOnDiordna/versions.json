@@ -1,0 +1,18 @@
+{
+  "id": "player-tracker-addon@DanielOnDiordna",
+  "id_hash": "player-tracker-addon-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Player Tracker add-on",
+  "category": "Addon",
+  "description": "Add-on to the player tracker plugin: Adjust history limit of 3 hours to another value. Toggle name labels, last action time, toggle/adjust player colors, focus on players, display 1 single player. Integrated Marker Label plugin and Spectrum Colorpicker 1.8.1 plugin. Supports Machina _̶̱̍_̴̳͉̆̈́M̷͔̤͒Ą̷̍C̴̼̕ͅH̶̹͕̼̾Ḭ̵̇̾̓N̵̺͕͒̀̍Ä̴̞̰́_̴̦̀͆̓_̷̣̈́  player.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/player-tracker-addon.user.js",
+  "versions": [
+    {
+      "version": "2.0.1.20251028.233800",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "e5414240870c22cc6e44d320e8ab93da074c8aec9bc821bccea0485904de5665",
+      "fetchedAt": "2026-04-12T16:14:46.964Z"
+    }
+  ]
+}

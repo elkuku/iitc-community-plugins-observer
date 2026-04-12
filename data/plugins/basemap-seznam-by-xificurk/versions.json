@@ -1,0 +1,18 @@
+{
+  "id": "basemap-seznam@xificurk",
+  "id_hash": "basemap-seznam-by-xificurk",
+  "author": "xificurk",
+  "name": "Seznam map tiles",
+  "category": "Map Tiles",
+  "description": "Seznam map tiles.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xificurk/basemap-seznam.user.js",
+  "versions": [
+    {
+      "version": "0.2.0.20230130.201555",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "366c054711c6d00ec7f6fd786647e0e5aa28621f5fa888cc910972a0e565f2b3",
+      "fetchedAt": "2026-04-12T16:14:48.411Z"
+    }
+  ]
+}

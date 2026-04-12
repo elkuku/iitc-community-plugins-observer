@@ -1,0 +1,18 @@
+{
+  "id": "pan-control-add-on@DanielOnDiordna",
+  "id_hash": "pan-control-add-on-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "pan control add-on",
+  "category": "Addon",
+  "description": "Change Pan Control to pan whole screens",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/pan-control-add-on.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20210724.002500",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "7ead58b450e8cbb5a6cd3c2355dcf6907bc95d0e66c47763159cd45a28b7e10a",
+      "fetchedAt": "2026-04-12T16:14:46.944Z"
+    }
+  ]
+}

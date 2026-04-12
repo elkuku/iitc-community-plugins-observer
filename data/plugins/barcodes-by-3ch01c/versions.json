@@ -1,0 +1,18 @@
+{
+  "id": "barcodes@3ch01c",
+  "id_hash": "barcodes-by-3ch01c",
+  "author": "3ch01c",
+  "name": "Replace player names with more easily remembered names",
+  "category": "Portal Info",
+  "description": "Show resonator energy percentage on resonator energy bar in portal detail panel.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/3ch01c/barcodes.user.js",
+  "versions": [
+    {
+      "version": "0.1.0.20170103",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "a64a5f346a1a9af9400005912a0e06518834a2b9b37685ca32fd0219aa1fb643",
+      "fetchedAt": "2026-04-12T16:14:46.454Z"
+    }
+  ]
+}

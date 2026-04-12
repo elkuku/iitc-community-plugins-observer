@@ -1,0 +1,18 @@
+{
+  "id": "smallerportals@DanielOnDiordna",
+  "id_hash": "smallerportals-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Show smaller portals",
+  "category": "Layer",
+  "description": "Show smaller portals when zooming out.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/smallerportals.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20220711.234400",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "4bdc827326bb99dd7565ec6ce7ceccc2a71558e0ef5dd93195c45398fa17b17f",
+      "fetchedAt": "2026-04-12T16:14:47.081Z"
+    }
+  ]
+}

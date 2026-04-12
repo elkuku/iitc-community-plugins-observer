@@ -1,0 +1,18 @@
+{
+  "id": "gotolink@DanielOnDiordna",
+  "id_hash": "gotolink-by-DanielOnDiordna",
+  "author": "DanielOnDiordna",
+  "name": "Goto Ingress intel link",
+  "category": "Misc",
+  "description": "Instead of clicking a link you can copy/paste any URL into IITC with this Goto Intel Link plugin. Support for portal links, map/perma links, mission links, and also support for portal and mission links created in the Ingress Prime scanner.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/DanielOnDiordna/gotolink.user.js",
+  "versions": [
+    {
+      "version": "1.0.0.20220614.235300",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "ac2b168700038c585a3bbecc802542da91125e3335c5ac3acaf5c9ae11d42bdb",
+      "fetchedAt": "2026-04-12T16:14:46.705Z"
+    }
+  ]
+}

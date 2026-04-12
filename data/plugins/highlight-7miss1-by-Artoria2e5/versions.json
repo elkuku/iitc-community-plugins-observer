@@ -1,0 +1,18 @@
+{
+  "id": "highlight-7miss1@Artoria2e5",
+  "id_hash": "highlight-7miss1-by-Artoria2e5",
+  "author": "Artoria2e5",
+  "name": "Highlight almost-8 portals",
+  "category": "Highlighter",
+  "description": "Find portals that are 1/2/3 resonators to level 8. Makes its own requests; use with caution.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Artoria2e5/highlight-7miss1.user.js",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "c180aebac984915d71292d62bf7a91dbc526ab4bcf6ab3a1404a19eb2bc596f9",
+      "fetchedAt": "2026-04-12T16:14:46.514Z"
+    }
+  ]
+}

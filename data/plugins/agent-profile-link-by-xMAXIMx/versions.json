@@ -1,0 +1,18 @@
+{
+  "id": "agent-profile-link@xMAXIMx",
+  "id_hash": "agent-profile-link-by-xMAXIMx",
+  "author": "xMAXIMx",
+  "name": "Agent profile link",
+  "category": "Info",
+  "description": "Adds agent profile link in search bar of IITC",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/xMAXIMx/agent-profile-link.user.js",
+  "versions": [
+    {
+      "version": "0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "87c997e3810e87a7b48346d193e45c7608916b5a6bd1e804010220f3986c5015",
+      "fetchedAt": "2026-04-12T16:14:48.360Z"
+    }
+  ]
+}

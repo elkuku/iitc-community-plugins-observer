@@ -1,0 +1,18 @@
+{
+  "id": "VRBB-l8-maximizer@Xelminoe",
+  "id_hash": "VRBB-l8-maximizer-by-Xelminoe",
+  "author": "Xelminoe",
+  "name": "VRBB L8 Maximizer",
+  "category": "Info",
+  "description": "Assist planning L8 resonator max-out using VRBB — e.g. 3 agents from the same side build an L8 portal in 15 minutes.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Xelminoe/VRBB-l8-maximizer.user.js",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "811172b30d6f57445ce4d112bdc45747e200a40fc9154a65a73b19d22324b8c3",
+      "fetchedAt": "2026-04-12T16:14:47.541Z"
+    }
+  ]
+}

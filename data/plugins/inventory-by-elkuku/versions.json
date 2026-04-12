@@ -1,0 +1,18 @@
+{
+  "id": "inventory@elkuku",
+  "id_hash": "inventory-by-elkuku",
+  "author": "elkuku",
+  "name": "KuKuInventory",
+  "category": "Misc",
+  "description": "Display inventory information",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/elkuku/inventory.user.js",
+  "versions": [
+    {
+      "version": "0.14",
+      "date": "2026-04-12",
+      "snapshotFile": "2026-04-12.user.js",
+      "sha256": "b87ef3834ea2e0868fda10a67b9defd05da67b68e82a24f20663c95723daa448",
+      "fetchedAt": "2026-04-12T16:14:48.055Z"
+    }
+  ]
+}
