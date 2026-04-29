@@ -1,0 +1,18 @@
+{
+  "id": "range-rings@MikeDiehn",
+  "id_hash": "range-rings-by-MikeDiehn",
+  "author": "Mike Diehn",
+  "name": "Range Rings",
+  "category": "Layer",
+  "description": "Draw concentric range circles from draggable center points.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/MikeDiehn/range-rings.user.js",
+  "versions": [
+    {
+      "version": "1.3.0",
+      "date": "2026-04-29",
+      "snapshotFile": "2026-04-29.user.js",
+      "sha256": "24be7d4e00af99e6d546990a60bab3b6cb69e8e2ff67b61e81496cd4a7368c29",
+      "fetchedAt": "2026-04-29T04:23:36.026Z"
+    }
+  ]
+}

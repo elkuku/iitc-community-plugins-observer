@@ -1,0 +1,18 @@
+{
+  "id": "portal-route@MikeDiehn",
+  "id_hash": "portal-route-by-MikeDiehn",
+  "author": "MikeDiehn",
+  "name": "Portal Route",
+  "category": "Navigate",
+  "description": "Route planning through selected portals with segment drive times, stop-time accounting, and Google Maps export.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/MikeDiehn/portal-route.user.js",
+  "versions": [
+    {
+      "version": "0.3.0-dev",
+      "date": "2026-04-29",
+      "snapshotFile": "2026-04-29.user.js",
+      "sha256": "2f8cb8bfe0070d4b6570538aaec15cf4144e0b8b98c920539bfca0e36467d0f6",
+      "fetchedAt": "2026-04-29T04:23:36.007Z"
+    }
+  ]
+}
