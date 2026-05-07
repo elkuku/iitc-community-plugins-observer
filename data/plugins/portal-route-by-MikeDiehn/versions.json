@@ -41,6 +41,13 @@
       "snapshotFile": "2026-05-04.user.js",
       "sha256": "7aa713743acb192813d54dc6f3caa2c5983f093584784273344d37b958ddbb85",
       "fetchedAt": "2026-05-04T04:35:07.595Z"
+    },
+    {
+      "version": "1.3.0",
+      "date": "2026-05-07",
+      "snapshotFile": "2026-05-07.user.js",
+      "sha256": "ebdaf427870222c14c799cf64342847a0cd7046c326ec4e48d2c12986f609daf",
+      "fetchedAt": "2026-05-07T04:28:57.331Z"
     }
   ]
 }
