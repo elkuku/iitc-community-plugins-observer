@@ -1,0 +1,18 @@
+{
+  "id": "herringbone-planner@Tarsi210",
+  "id_hash": "herringbone-planner-by-Tarsi210",
+  "author": "Tarsi210",
+  "name": "Herringbone Planner",
+  "category": "Layer",
+  "description": "Finds and draws an optimal visible-portal spine for herringbone multilayer planning, with CSV export.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Tarsi210/herringbone-planner.user.js",
+  "versions": [
+    {
+      "version": "0.4.4",
+      "date": "2026-05-24",
+      "snapshotFile": "2026-05-24.user.js",
+      "sha256": "bc39672fb17834775f1dc2b341df7fdbc6c38a654481c401d498eb1dba450d1d",
+      "fetchedAt": "2026-05-24T04:56:26.448Z"
+    }
+  ]
+}
