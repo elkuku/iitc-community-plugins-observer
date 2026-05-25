@@ -1,0 +1,18 @@
+{
+  "id": "follow-mode@MikeDiehn",
+  "id_hash": "follow-mode-by-MikeDiehn",
+  "author": "Mike Diehn and Frank",
+  "name": "Follow Mode Add-on",
+  "category": "Addon",
+  "description": "Use smoothed, heading-up, IITC user-location follow movement.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/MikeDiehn/follow-mode.user.js",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-05-25",
+      "snapshotFile": "2026-05-25.user.js",
+      "sha256": "8bcca13fed66dfcc3ff180b43ac382ae56efd2a205d741b6cab334d2c6fee957",
+      "fetchedAt": "2026-05-25T05:13:35.411Z"
+    }
+  ]
+}
