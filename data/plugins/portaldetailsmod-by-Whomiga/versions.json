@@ -132,6 +132,13 @@
       "snapshotFile": "2026-07-02.user.js",
       "sha256": "f970f71fb0d713555c310790c006aee9e7a91d833f788a082425088fd001f6bf",
       "fetchedAt": "2026-07-02T04:51:26.480Z"
+    },
+    {
+      "version": "1.8.0",
+      "date": "2026-07-12",
+      "snapshotFile": "2026-07-12.user.js",
+      "sha256": "4c967bfbb2e586eb39e9047214ba9921de586e79df6824802eb10e230ef9c529",
+      "fetchedAt": "2026-07-12T04:19:15.448Z"
     }
   ]
 }
