@@ -1,0 +1,18 @@
+{
+  "id": "refresh@McBen",
+  "id_hash": "refresh-by-McBen",
+  "author": "McBen",
+  "name": "Refresh",
+  "category": "Tweaks",
+  "description": "Refresh map without page reload",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/McBen/refresh.user.js",
+  "versions": [
+    {
+      "version": "1.1.7",
+      "date": "2026-07-30",
+      "snapshotFile": "2026-07-30.user.js",
+      "sha256": "1276f53ef01e8cd0c7f6bd9163af0dc44b33ecfd6142bd8bbdc8033e11500fd9",
+      "fetchedAt": "2026-07-30T03:48:44.190Z"
+    }
+  ]
+}

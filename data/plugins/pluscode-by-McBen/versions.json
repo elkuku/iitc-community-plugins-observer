@@ -1,0 +1,18 @@
+{
+  "id": "pluscode@McBen",
+  "id_hash": "pluscode-by-McBen",
+  "author": "McBen",
+  "name": "PlusCodes",
+  "category": "Info",
+  "description": "support PlusCodes in Search",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/McBen/pluscode.user.js",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "date": "2026-07-30",
+      "snapshotFile": "2026-07-30.user.js",
+      "sha256": "364cd26a2db3eb77ee64097541e1b9b56c1eaa77d5f68a7f3479aa4257c137cb",
+      "fetchedAt": "2026-07-30T03:48:44.161Z"
+    }
+  ]
+}
