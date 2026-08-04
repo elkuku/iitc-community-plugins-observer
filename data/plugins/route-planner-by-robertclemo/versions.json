@@ -1,0 +1,18 @@
+{
+  "id": "route-planner@robertclemo",
+  "id_hash": "route-planner-by-robertclemo",
+  "author": "robertclemo",
+  "name": "Ops Route Planner",
+  "category": "Tweaks",
+  "description": "Draw a shape with Draw Tools, then compute an optimized round-trip driving route through every portal inside it.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/robertclemo/route-planner.user.js",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "date": "2026-08-04",
+      "snapshotFile": "2026-08-04.user.js",
+      "sha256": "d64789cc9732141a331c856bc40e7cee078e8e2a2997950fce1485d470257ba6",
+      "fetchedAt": "2026-08-04T03:56:17.847Z"
+    }
+  ]
+}
