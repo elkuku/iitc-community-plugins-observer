@@ -1,0 +1,18 @@
+{
+  "id": "anchor-route-planner@robertclemo",
+  "id_hash": "anchor-route-planner-by-robertclemo",
+  "author": "robertclemo",
+  "name": "Anchor Route Planner",
+  "category": "Tweaks",
+  "description": "Mark anchor portals with Draw Tools (markers, or the corners of a polygon), then get the fastest real driving/walking route stitching them together, in the best order.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/robertclemo/anchor-route-planner.user.js",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "date": "2026-09-10",
+      "snapshotFile": "2026-09-10.user.js",
+      "sha256": "afb3f374c8f9aac0e788aabed1a363fa623642a74788c879e374e723745dac5e",
+      "fetchedAt": "2026-09-10T05:24:44.056Z"
+    }
+  ]
+}

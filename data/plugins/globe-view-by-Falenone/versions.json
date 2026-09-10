@@ -1,0 +1,18 @@
+{
+  "id": "globe-view@Falenone",
+  "id_hash": "globe-view-by-Falenone",
+  "author": "Falenone, Codex",
+  "name": "GlobeView",
+  "category": "Map",
+  "description": "A Cesium-based 3D globe view for IITC with portals, links, fields, visual effects, and configurable performance options.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Falenone/globe-view.user.js",
+  "versions": [
+    {
+      "version": "1.1",
+      "date": "2026-09-10",
+      "snapshotFile": "2026-09-10.user.js",
+      "sha256": "0ff76e972658a717d74f27e7ff9136107087e94b3d545955ca7de5268e9e7504",
+      "fetchedAt": "2026-09-10T05:24:42.018Z"
+    }
+  ]
+}
