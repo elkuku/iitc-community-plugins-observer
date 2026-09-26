@@ -1,0 +1,18 @@
+{
+  "id": "fanfields3@Avataar120",
+  "id_hash": "fanfields3-by-Avataar120",
+  "author": "Avataar120",
+  "name": "Fan Fields 3",
+  "category": "Layer",
+  "description": "Fork of Heistergand's Fan Fields 2 (thanks Heistergand for the original work!). Plans the largest tidy set of nested fields, and adds: walking optimization (less backtracking between portals, Destroy stops placed where they add the least walking), automatic best anchor/direction search that reuses your faction's existing links, Blockers handling in the Task List, plan locking, Pick anchor on the map, and route export to Google Maps / Portal Route. Enable from the layer chooser.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Avataar120/fanfields3.user.js",
+  "versions": [
+    {
+      "version": "3.1.1.20260925",
+      "date": "2026-09-26",
+      "snapshotFile": "2026-09-26.user.js",
+      "sha256": "ae43e943ee8042871ef3630f7a475a8d3cfb5c390fde8cdedce31bc8b52d4e10",
+      "fetchedAt": "2026-09-26T05:39:58.653Z"
+    }
+  ]
+}
