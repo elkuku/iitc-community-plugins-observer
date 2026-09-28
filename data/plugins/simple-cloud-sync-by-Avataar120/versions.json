@@ -1,0 +1,18 @@
+{
+  "id": "simple-cloud-sync@Avataar120",
+  "id_hash": "simple-cloud-sync-by-Avataar120",
+  "author": "Avataar120",
+  "name": "Simple Cloud Sync",
+  "category": "Misc",
+  "description": "Syncs the localStorage data of your IITC plugins (bookmarks, draw tools, settings…) across all your devices. Each agent has a private, password-protected space on the sync server, keyed by the logged-in agent name. Per-key merge, most recent change wins; the server is only contacted when something changed.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Avataar120/simple-cloud-sync.user.js",
+  "versions": [
+    {
+      "version": "1.2.0.20260927",
+      "date": "2026-09-28",
+      "snapshotFile": "2026-09-28.user.js",
+      "sha256": "c347d6a97d693f2b55efddaba52fec76351ca7297dcb7415f57eba1bc9f242b1",
+      "fetchedAt": "2026-09-28T06:03:35.443Z"
+    }
+  ]
+}
