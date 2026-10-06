@@ -4,7 +4,7 @@
   "author": "Avataar120",
   "name": "Fan Fields 3",
   "category": "Layer",
-  "description": "Fork of Heistergand's Fan Fields 2 (thanks Heistergand for the original work!). Plans the largest tidy set of nested fields, and adds: walking optimization (less backtracking between portals, Destroy stops placed where they add the least walking), automatic best anchor/direction search that reuses your faction's existing links, Blockers handling in the Task List, plan locking, Pick anchor and Exclude portals on the map, a Task List that follows your progress — correctly sequencing outbound plans and rebalancing links when one gets thrown the wrong way — and can Reroute the steps left from where you stand or preview the whole walk with Walk sim, key counts read from a screen recording of your keys in Ingress (Keys plugin) or spent automatically as you throw links, and route export to Google Maps / Portal Route. Enable from the layer chooser.",
+  "description": "Fork of Heistergand's Fan Fields 2 (thanks Heistergand for the original work!). Plans the largest tidy set of nested fields, and adds: walking optimization (less backtracking between portals, Destroy stops placed where they add the least walking), automatic best anchor/direction search that reuses your faction's existing links, Blockers handling in the Task List, plan locking, Pick anchor and Exclude portals on the map, a Task List that follows your progress — correctly sequencing outbound plans and rebalancing links when one gets thrown the wrong way — and can Reroute the steps left from where you stand or preview the whole walk with Walk sim, key counts read from a screen recording of your keys in Ingress (Keys plugin) or spent automatically as you throw links (now safe to use across several of your devices at once), and route export to Google Maps / Portal Route or a step-by-step plan report (\"Plan details\" menu). Enable from the layer chooser.",
   "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Avataar120/fanfields3.user.js",
   "versions": [
     {
@@ -48,6 +48,13 @@
       "snapshotFile": "2026-10-05.user.js",
       "sha256": "06de8ff34e13b88638d5db8497246853f0b3d7d6c778a1a5631e1223b16f7dfb",
       "fetchedAt": "2026-10-05T06:22:46.263Z"
+    },
+    {
+      "version": "6.3.0.20261005",
+      "date": "2026-10-06",
+      "snapshotFile": "2026-10-06.user.js",
+      "sha256": "8e45b9a6bee5b497c4ff084226c443cb4b78c74a440a68551a5d6fc875416c1e",
+      "fetchedAt": "2026-10-06T06:58:38.002Z"
     }
   ]
 }
