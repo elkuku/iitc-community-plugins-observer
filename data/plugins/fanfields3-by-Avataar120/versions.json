@@ -4,7 +4,7 @@
   "author": "Avataar120",
   "name": "Fan Fields 3",
   "category": "Layer",
-  "description": "Fork of Heistergand's Fan Fields 2 (thanks Heistergand for the original work!). Plans the largest tidy set of nested fields, and adds: walking optimization (less backtracking between portals, Destroy stops placed where they add the least walking), automatic best anchor/direction search that reuses your faction's existing links, Blockers handling in the Task List, plan locking, Pick anchor and Exclude portals on the map, a Task List that follows your progress — correctly sequencing outbound plans and rebalancing links when one gets thrown the wrong way — and can Reroute the steps left from where you stand or preview the whole walk with Walk sim, key counts read from a screen recording of your keys in Ingress (Keys plugin) or spent automatically as you throw links (now safe to use across several of your devices at once), and route export to Google Maps / Portal Route or a step-by-step plan report (\"Plan details\" menu). Enable from the layer chooser.",
+  "description": "Draw a polygon around a handful of portals and get an instant, maximized fielding plan. Import your keys straight from Ingress -- even without a Core subscription. Predict and optimize your walking route, and much more. Pair it with the Simple Cloud Sync plugin to keep all your devices connected and perfectly in sync, with full privacy guaranteed.",
   "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Avataar120/fanfields3.user.js",
   "versions": [
     {
@@ -55,6 +55,13 @@
       "snapshotFile": "2026-10-06.user.js",
       "sha256": "8e45b9a6bee5b497c4ff084226c443cb4b78c74a440a68551a5d6fc875416c1e",
       "fetchedAt": "2026-10-06T06:58:38.002Z"
+    },
+    {
+      "version": "6.3.1.20261006",
+      "date": "2026-10-07",
+      "snapshotFile": "2026-10-07.user.js",
+      "sha256": "52b71996dffebd6e75f7bd9e99c419cdba49b491d90b4b764f04d455afdb8f03",
+      "fetchedAt": "2026-10-07T06:39:32.257Z"
     }
   ]
 }
