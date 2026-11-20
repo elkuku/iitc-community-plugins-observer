@@ -1,0 +1,17 @@
+{
+  "id": "iitc-calculateur-mu@Loupblanc1212",
+  "id_hash": "iitc-calculateur-mu-by-Loupblanc1212",
+  "author": "Loupblanc1212",
+  "name": "Calculateur de MU",
+  "description": "Estime les Mind Units d’un champ en sélectionnant ses trois portails sur la carte Intel.",
+  "downloadURL": "https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/Loupblanc1212/iitc-calculateur-mu.user.js",
+  "versions": [
+    {
+      "version": "1.4.1",
+      "date": "2026-11-20",
+      "snapshotFile": "2026-11-20.user.js",
+      "sha256": "5ba9c21d9859d753a762b4390c94a8db5bfc0ddf3f7c1342e18b26abebf1a67e",
+      "fetchedAt": "2026-11-20T07:51:58.393Z"
+    }
+  ]
+}
