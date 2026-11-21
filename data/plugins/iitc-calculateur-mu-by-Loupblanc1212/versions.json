@@ -12,6 +12,14 @@
       "snapshotFile": "2026-11-20.user.js",
       "sha256": "5ba9c21d9859d753a762b4390c94a8db5bfc0ddf3f7c1342e18b26abebf1a67e",
       "fetchedAt": "2026-11-20T07:51:58.393Z"
+    },
+    {
+      "version": "1.4.1",
+      "date": "2026-11-21",
+      "snapshotFile": "2026-11-21.user.js",
+      "sha256": "8608b111fc8ce1b92a811e0a96898b3610bb1d181ca6534f75a548331d9ee7e0",
+      "fetchedAt": "2026-11-21T07:48:31.763Z"
     }
-  ]
+  ],
+  "category": "Misc"
 }
